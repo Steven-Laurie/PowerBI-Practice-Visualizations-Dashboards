@@ -4,7 +4,7 @@
 Throughout my data bootcamp and self-studies i practised making many dashboards/visualizations using different datasets. 
 This folder is a trip to the past to see my ability improve in real time.
 
-## Repositories
+## Repository Contents
 
 ### PowerBI:
 Contains the files for my visualizations and dashboards.
